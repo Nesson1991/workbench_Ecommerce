@@ -1,5 +1,7 @@
 # Refinando o Modelo Conceitual de Banco de Dados E-Commerce com MySQL Workbench
 
+![Modelo refinado do E-Commerce](https://github.com/Nesson1991/workbench_Ecommerce/blob/main/E-Commerce_refinado.png?raw=true)
+
 Este repositório contém o projeto desenvolvido durante o desafio de **Formação SQL Database Specialist** na plataforma DIO. O objetivo do projeto foi **refinar um modelo conceitual de banco de dados para um sistema de E-Commerce**, utilizando o **MySQL Workbench** para a modelagem.
 
 ## 💡 Aprendizado
